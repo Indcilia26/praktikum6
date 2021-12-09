@@ -17,10 +17,12 @@ Ada 4 fungsi yang harus dirubah ke lambda. Perhatikan Soal Berikut
 ![img](Screenshot/ss1.png)
 
 dan ini hasil dari source code diatas
+
 ![img](Screenshot/ss1.png)
 
 ```ruby
 print("________________________________________")
+
 #mengubah function menggunakan lambda
 def a(x):
     return x ** 2
@@ -57,11 +59,9 @@ print("________________________________________")
 print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".join(set(s))")
 print("   Hasil : lambda s: "".join(set(s)))")
 ```
-Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, disini saya akan berikan contoh untuk output dari source code tersebut. Berikut outputnya
+Disini saya sudah rubah ke lambda, berikut outputnya:
 
 ![img](Screenshot/ss1.png)
-
-Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
 
 ### Tugas Praktikum
 Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen yaitu :
@@ -171,31 +171,37 @@ Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan men
 
 Terdapat 5 Pilihan menu, yaitu :
 
-1. Tambah Data
-2. Lihat Data
+1. Lihat Data
+2. Tambah Data
 3. Ubah Data
 4. Hapus Data
-0. Keluar Aplikasi
+5. Keluar Aplikasi
 
-2. Lihat Data Nilai Mahasiswa
+**1) Lihat Data Nilai Mahasiswa**
 
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5) Inilah tampilan fitur Lihat Data :
 
 ![img](Screenshot/ss1.png)
 
-1. Menambahkan Data
+**2) Menambahkan Data**
 
 ![img](Screenshot/ss1.png)
 
-3. Fitur ubah data
+**3) Fitur ubah data**
+
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rizky , Maka akan muncul tampilan seperti ini : hasil
 
-4. Fitur Hapus Data Nilai Mahasiswa
+**4) Fitur Hapus Data Nilai Mahasiswa**
+
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5) Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rizkyyz
 
 ![img](Screenshot/ss1.png)
 
-FLOWCHART
+#### Flowchart
 
 Dan terakhir adalah Hasil Dari Flowchart nya
 ![img](Screenshot/ss1.png)
+
+**Sekian penjelasan praktikum 6, terimakasih atas perhatiannya..**
+
+##### Indira Rully Pricilia - 312110354 - TI.21.CA.1
