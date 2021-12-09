@@ -2,7 +2,7 @@
 
 ## Tugas pemograman pertemuan 11 - Merubah dari fungsi ke lambda 
 
-=================================
+================================
 = Nama : Indira Rully Pricilia
 
 = NIM : 312110354
