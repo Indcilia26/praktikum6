@@ -189,11 +189,11 @@ System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada piliha
 
 **3) Fitur ubah data**
 
-Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rizky , Maka akan muncul tampilan seperti ini : hasil
+Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rizky , Maka akan muncul tampilan seperti ini :
 
 **4) Fitur Hapus Data Nilai Mahasiswa**
 
-System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5) Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rizkyyz
+System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 
 ![img](Screenshot/ss1.png)
 
