@@ -1,5 +1,5 @@
 
- print("________________________________________")
+print("________________________________________")
 
 #mengubah function menggunakan lambda
 def a(x):
