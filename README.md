@@ -165,7 +165,7 @@ while True:
         print("== Pilihlah Menu Yang Tersedia ==")
         print("<><><><><><><><><><><><><><><><>")
 ```
-Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
+Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika di run, maka program akan seperti ini :
 
 ![img](Screenshot/ss1.png)
 
@@ -189,7 +189,7 @@ System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada piliha
 
 **3) Fitur ubah data**
 
-Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama rizky , Maka akan muncul tampilan seperti ini :
+Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data
 
 **4) Fitur Hapus Data Nilai Mahasiswa**
 
