@@ -12,14 +12,11 @@
 
 =================================
 ### Latihan
-Ada 4 fungsi yang harus dirubah ke lambda. Perhatikan Soal Berikut
+Berikut soal latihan yang diberikan dosen :
 
 ![img](Screenshot/ss1.png)
 
-dan ini hasil dari source code diatas
-
-![img](Screenshot/ss1.png)
-
+dan ini hasil dari source code diatas :
 ```ruby
 print("________________________________________")
 
@@ -61,12 +58,12 @@ print("   Hasil : lambda s: "".join(set(s)))")
 ```
 Disini saya sudah rubah ke lambda, berikut outputnya:
 
-![img](Screenshot/ss1.png)
+![img](Screenshot/ss2.png)
 
 ### Tugas Praktikum
-Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen yaitu :
+Berikut soal yang diberikan dosen :
 
-![img](Screenshot/ss1.png)
+![img](Screenshot/ss3.png)
 
 Inilah source code dari program sederhana saya :
 ```ruby
@@ -165,9 +162,9 @@ while True:
         print("== Pilihlah Menu Yang Tersedia ==")
         print("<><><><><><><><><><><><><><><><>")
 ```
-Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika di run, maka program akan seperti ini :
+Pada tugas praktikum saya menggunakan fitur function dan menggunakan media penyimpanan Dictionary. Saya akan menjelaskan mengenai fitur-fitur yang ada dalam program ini. Ketika di run, maka program akan seperti ini :
 
-![img](Screenshot/ss1.png)
+![img](Screenshot/ss4.png)
 
 Terdapat 5 Pilihan menu, yaitu :
 
@@ -181,26 +178,29 @@ Terdapat 5 Pilihan menu, yaitu :
 
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5) Inilah tampilan fitur Lihat Data :
 
-![img](Screenshot/ss1.png)
+![img](Screenshot/ss5.png)
 
 **2) Menambahkan Data**
 
-![img](Screenshot/ss1.png)
+![img](Screenshot/ss6.png)
 
 **3) Fitur ubah data**
 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah Setelah user memilih data
 
+![img](Screenshot/ss7.png)
+
 **4) Fitur Hapus Data Nilai Mahasiswa**
 
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 
-![img](Screenshot/ss1.png)
+![img](Screenshot/ss8.png)
 
 #### Flowchart
 
-Dan terakhir adalah Hasil Dari Flowchart nya
-![img](Screenshot/ss1.png)
+Dan berikut adalah Hasil Dari Flowchartnya
+
+![img](Screenshot/ss9.png)
 
 **Sekian penjelasan praktikum 6, terimakasih atas perhatiannya..**
 
