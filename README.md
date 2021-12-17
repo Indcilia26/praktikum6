@@ -169,10 +169,15 @@ Pada tugas praktikum saya menggunakan fitur function dan menggunakan media penyi
 Terdapat 5 Pilihan menu, yaitu :
 
 = 1. Lihat Data
+
 = 2. Tambah Data
+
 = 3. Ubah Data
+
 = 4. Hapus Data
+
 = 0. Keluar Aplikasi
+
 
 **1) Lihat Data Nilai Mahasiswa**
 
