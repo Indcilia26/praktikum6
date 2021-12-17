@@ -172,7 +172,7 @@ Terdapat 5 Pilihan menu, yaitu :
 2. Tambah Data
 3. Ubah Data
 4. Hapus Data
-5. Keluar Aplikasi
+0. Keluar Aplikasi
 
 **1) Lihat Data Nilai Mahasiswa**
 
