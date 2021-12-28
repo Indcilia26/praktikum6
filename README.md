@@ -187,6 +187,8 @@ System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada piliha
 
 **2) Menambahkan Data**
 
+Berikut outputnya ketika saya tambahkan data lagi :
+
 ![img](Screenshot/ss6.png)
 
 **3) Fitur ubah data**
